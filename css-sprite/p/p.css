@@ -1,0 +1,245 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-c {
+    width: 56px;
+    height: 37px;
+    background-position: -5px -5px;
+}
+
+.sprite-ch {
+    width: 56px;
+    height: 37px;
+    background-position: -71px -5px;
+}
+
+.sprite-ci {
+    width: 56px;
+    height: 37px;
+    background-position: -137px -5px;
+}
+
+.sprite-cl {
+    width: 56px;
+    height: 37px;
+    background-position: -203px -5px;
+}
+
+.sprite-cm {
+    width: 56px;
+    height: 37px;
+    background-position: -269px -5px;
+}
+
+.sprite-cn {
+    width: 56px;
+    height: 37px;
+    background-position: -5px -52px;
+}
+
+.sprite-ct {
+    width: 56px;
+    height: 37px;
+    background-position: -71px -52px;
+}
+
+.sprite-cv {
+    width: 56px;
+    height: 37px;
+    background-position: -137px -52px;
+}
+
+.sprite-e {
+    width: 56px;
+    height: 37px;
+    background-position: -203px -52px;
+}
+
+.sprite-ec {
+    width: 56px;
+    height: 37px;
+    background-position: -269px -52px;
+}
+
+.sprite-g {
+    width: 56px;
+    height: 37px;
+    background-position: -5px -99px;
+}
+
+.sprite-in {
+    width: 56px;
+    height: 37px;
+    background-position: -71px -99px;
+}
+
+.sprite-n {
+    width: 56px;
+    height: 37px;
+    background-position: -137px -99px;
+}
+
+.sprite-ncm {
+    width: 56px;
+    height: 37px;
+    background-position: -203px -99px;
+}
+
+.sprite-ncn {
+    width: 56px;
+    height: 37px;
+    background-position: -269px -99px;
+}
+
+.sprite-nct {
+    width: 56px;
+    height: 37px;
+    background-position: -5px -146px;
+}
+
+.sprite-nd {
+    width: 56px;
+    height: 37px;
+    background-position: -71px -146px;
+}
+
+.sprite-ne {
+    width: 56px;
+    height: 37px;
+    background-position: -137px -146px;
+}
+
+.sprite-np {
+    width: 56px;
+    height: 37px;
+    background-position: -203px -146px;
+}
+
+.sprite-npm {
+    width: 56px;
+    height: 37px;
+    background-position: -269px -146px;
+}
+
+.sprite-npn {
+    width: 56px;
+    height: 37px;
+    background-position: -5px -193px;
+}
+
+.sprite-npp {
+    width: 56px;
+    height: 37px;
+    background-position: -71px -193px;
+}
+
+.sprite-npt {
+    width: 56px;
+    height: 37px;
+    background-position: -137px -193px;
+}
+
+.sprite-nv {
+    width: 56px;
+    height: 37px;
+    background-position: -203px -193px;
+}
+
+.sprite-pc {
+    width: 56px;
+    height: 37px;
+    background-position: -269px -193px;
+}
+
+.sprite-pcm {
+    width: 56px;
+    height: 37px;
+    background-position: -5px -240px;
+}
+
+.sprite-pcn {
+    width: 56px;
+    height: 37px;
+    background-position: -71px -240px;
+}
+
+.sprite-pct {
+    width: 56px;
+    height: 37px;
+    background-position: -137px -240px;
+}
+
+.sprite-pm {
+    width: 56px;
+    height: 37px;
+    background-position: -203px -240px;
+}
+
+.sprite-pn {
+    width: 56px;
+    height: 37px;
+    background-position: -269px -240px;
+}
+
+.sprite-pnt {
+    width: 56px;
+    height: 37px;
+    background-position: -5px -287px;
+}
+
+.sprite-pp {
+    width: 56px;
+    height: 37px;
+    background-position: -71px -287px;
+}
+
+.sprite-ppm {
+    width: 56px;
+    height: 37px;
+    background-position: -137px -287px;
+}
+
+.sprite-ppn {
+    width: 56px;
+    height: 37px;
+    background-position: -203px -287px;
+}
+
+.sprite-ppt {
+    width: 56px;
+    height: 37px;
+    background-position: -269px -287px;
+}
+
+.sprite-ps {
+    width: 56px;
+    height: 37px;
+    background-position: -335px -5px;
+}
+
+.sprite-psc {
+    width: 56px;
+    height: 37px;
+    background-position: -335px -52px;
+}
+
+.sprite-pt {
+    width: 56px;
+    height: 37px;
+    background-position: -335px -99px;
+}
+
+.sprite-t {
+    width: 56px;
+    height: 37px;
+    background-position: -335px -146px;
+}
+
+.sprite-vn {
+    width: 56px;
+    height: 37px;
+    background-position: -335px -193px;
+}
