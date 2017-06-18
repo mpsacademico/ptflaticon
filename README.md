@@ -2,7 +2,7 @@
 
 ![CSS Sprite dos Ícones Flat](https://raw.githubusercontent.com/mpsacademico/ptflaticon/master/css-sprite/m/m.png)
 
-## Otimização de Ícones de Condição do Tempo  
+## Otimização de Ícones de Condição de Tempo  
 
 A preocupação com o consumo de recursos e desempenho das aplicações deveria ser uma constante durante o desenvolvimento. Visto que, a velocidade de carregamento e processamento das páginas web é um dos fatores mais importantes de viabilização e aceitação de ferramentas desse tipo.  
 
@@ -21,10 +21,11 @@ A metodologia empregada foi o traçado de vetores sobre os principais componente
 - GIMP 2.8
 
 ## Paleta de Cores
-- ![#bdc3c7](https://placehold.it/15/bdc3c7/000000?text=+) `#bdc3c7` nuvem e névoa
-- ![#cccccc](https://placehold.it/15/cccccc/000000?text=+) `#cccccc` clatera profunda lua
-- ![#d7d9da](https://placehold.it/15/d7d9da/000000?text=+) `#d7d9da` clatera rasa lua
+
 - ![#e5e5e5](https://placehold.it/15/e5e5e5/000000?text=+) `#e5e5e5` lua
+- ![#d7d9da](https://placehold.it/15/d7d9da/000000?text=+) `#d7d9da` clatera rasa da lua
+- ![#cccccc](https://placehold.it/15/cccccc/000000?text=+) `#cccccc` clatera profunda da lua
+- ![#bdc3c7](https://placehold.it/15/bdc3c7/000000?text=+) `#bdc3c7` nuvem e névoa
 - ![#95a5a6](https://placehold.it/15/95a5a6/000000?text=+) `#95a5a6` nuvem escura
 - ![#7f8c8d](https://placehold.it/15/7f8c8d/000000?text=+) `#7f8c8d` nuvem muito escura
 - ![#e67e22](https://placehold.it/15/e67e22/000000?text=+) `#e67e22` sol
