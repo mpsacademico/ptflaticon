@@ -56,3 +56,13 @@ A metodologia empregada foi o traçado de vetores sobre os principais componente
 
 ### PP 28x19  
 <img src="http://via.placeholder.com/28x19" alt="28x19">
+
+## Resultados
+
+Seguem abaixo os registros dos resultados gráficos obtidos com o desenvolvimento do projeto.
+
+|  
+|-- **icones** flat individuais em tamanhos diversos (EG, GG, G, M, P, PP)   
+|-- **css-sprite** dos ícones flat nos tamanhos médio, pequeno e muito pequeno    
+|-- **projetos-xcf** com ícones flat desenvolvidos em formato vetorial para edição  
+`-- **icones-originais** compõe o arquivamento dos ícones tradicionais reestruturados
