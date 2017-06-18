@@ -36,3 +36,23 @@ A metodologia empregada foi o traçado de vetores sobre os principais componente
 - ![#a21912](https://placehold.it/15/a21912/000000?text=+) `#a21912` seta II
 - ![#0198ba](https://placehold.it/15/0198ba/000000?text=+) `#0198ba` seta III
 - ![#0f4698](https://placehold.it/15/0f4698/000000?text=+) `#0f4698` seta IV
+
+## Resoluções de Ícones Individuais
+
+### EG 1110x740  
+<img src="http://via.placeholder.com/1110x740" alt="1110x740">
+
+### GG 444x296  
+<img src="http://via.placeholder.com/444x296" alt="444x296">
+
+### G 222x148  
+<img src="http://via.placeholder.com/222x148" alt="222x148">
+
+### M 111x74  
+<img src="http://via.placeholder.com/111x74" alt="111x74">
+
+### P 56x37  
+<img src="http://via.placeholder.com/56x37" alt="56x37">
+
+### PP 28x19  
+<img src="http://via.placeholder.com/28x19" alt="28x19">
