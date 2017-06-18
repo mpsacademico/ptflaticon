@@ -19,3 +19,19 @@ A metodologia empregada foi o traçado de vetores sobre os principais componente
 ## Ferramentas
 
 - GIMP 2.8
+
+## Paleta de Cores
+- ![#bdc3c7](https://placehold.it/15/bdc3c7/000000?text=+) `#bdc3c7` nuvem e névoa
+- ![#cccccc](https://placehold.it/15/cccccc/000000?text=+) `#cccccc` clatera profunda lua
+- ![#d7d9da](https://placehold.it/15/d7d9da/000000?text=+) `#d7d9da` clatera rasa lua
+- ![#e5e5e5](https://placehold.it/15/e5e5e5/000000?text=+) `#e5e5e5` lua
+- ![#95a5a6](https://placehold.it/15/95a5a6/000000?text=+) `#95a5a6` nuvem escura
+- ![#7f8c8d](https://placehold.it/15/7f8c8d/000000?text=+) `#7f8c8d` nuvem muito escura
+- ![#e67e22](https://placehold.it/15/e67e22/000000?text=+) `#e67e22` sol
+- ![#3498db](https://placehold.it/15/3498db/000000?text=+) `#3498db` gota d'água, folha e ícone
+- ![#297fb8](https://placehold.it/15/297fb8/000000?text=+) `#297fb8` caule da folha
+- ![#f3c70e](https://placehold.it/15/f3c70e/000000?text=+) `#f3c70e` raio
+- ![#d35400](https://placehold.it/15/d35400/000000?text=+) `#d35400` seta I
+- ![#a21912](https://placehold.it/15/a21912/000000?text=+) `#a21912` seta II
+- ![#0198ba](https://placehold.it/15/0198ba/000000?text=+) `#0198ba` seta III
+- ![#0f4698](https://placehold.it/15/0f4698/000000?text=+) `#0f4698` seta IV
